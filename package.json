@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "array-unique": "^0.3.2"
+  },
+  "name": "@atchaikovski/b4.5.1",
+  "description": "SkillFactory HW b4.5.1",
+  "version": "1.0.1",
+  "main": "probe.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atchaikovski/SF_B4.5.1.git"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "Alex Tchaikovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atchaikovski/SF_B4.5.1/issues"
+  },
+  "homepage": "https://github.com/atchaikovski/SF_B4.5.1#readme"
+}
